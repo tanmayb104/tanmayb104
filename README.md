@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Django, C, C++, SQL**
 
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 
 - 📫 Reach me at: **tanmaybansal104@gmail.com**
 
