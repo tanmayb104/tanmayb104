@@ -2,13 +2,13 @@
 <h3 align="center">An Enthusiastic Programmer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayb104" alt="tanmay bansal" /> </p>
 
-- 🔭 I’m currently working on Discord Bot and improving my competitive programming skills.
+- 🔭 I’m currently working on Teams clone and improving my competitive programming skills.
 
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Machine Learning.
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanmayb104](https://github.com/tanmayb104)
 
-- 💬 Ask me about **Python, Django, C, C++, SQL**
+- 💬 Ask me about **Python, Django, , DSAC, C++**
 
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
