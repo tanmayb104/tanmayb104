@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Teams clone and improving my competitive programming skills.
 
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning **Machine Learning**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanmayb104](https://github.com/tanmayb104)
 
