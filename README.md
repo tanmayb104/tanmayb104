@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanmayb104](https://github.com/tanmayb104)
 
-- 💬 Ask me about **Python, Django, , DSAC, C++**
+- 💬 Ask me about **Python, Django, DSA, C, C++**
 
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
