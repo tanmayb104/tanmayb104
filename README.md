@@ -2,7 +2,7 @@
 <h3 align="center">An Enthusiastic Programmer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayb104" alt="tanmay bansal" /> </p>
 
-- 🔭 I’m currently working on Teams clone and improving my competitive programming skills.
+- 🔭 I’m currently doing an internship at Nulenta and improving my competitive programming skills.
 
 - 🌱 I’m currently learning **Machine Learning**.
 
