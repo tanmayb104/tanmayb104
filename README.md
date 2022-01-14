@@ -34,5 +34,5 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"></code>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tanmayb104&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tanmayb104&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"></p> -->
 
