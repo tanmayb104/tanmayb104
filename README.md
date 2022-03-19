@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!👋, I am Tanmay Bansal.</h1>
 <h3 align="center">An Enthusiastic Programmer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayb104" alt="tanmay bansal" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayb104" alt="tanmay bansal" /> </p> -->
 
 - 🔭 I’m currently improving my competitive programming skills.
 
